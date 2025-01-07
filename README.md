@@ -1,2 +1,3 @@
 # diagramme radio
  
+petit programme pour générer des diagrammes en étoile dans le même genre que Jojo's Bizarre Adventure ...
